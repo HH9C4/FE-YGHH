@@ -29,7 +29,10 @@ const AlarmAlert = ({ newNotice, setNewNotice }) => {
   }
 
   return (
-    <div key={Math.random()}>
+    <div
+      className='cursor-pointer'
+      onClick={() => clickMove()}
+      key={Math.random()}>
       {newNotice.message !== undefined && userLocation !== "chat" ? (
         <div
           className="absolute left-0 top-[76px] w-full mx-auto z-30
@@ -39,7 +42,7 @@ const AlarmAlert = ({ newNotice, setNewNotice }) => {
             <div className="absolute top-[1px] left-[1px] bg-bbred w-[6px] h-[6px] rounded-full animate-ping"></div>
           </div>
           <p
-            onClick={() => clickMove()}
+
             className="text-b11 font-medium text-bb66 break-all"
           >
             {newNotice.message}
