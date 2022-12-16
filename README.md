@@ -198,20 +198,16 @@
 
 ## 🚨 Trouble Shooting
 
-
-
+#### 다중 이미지 등록/수정을 위한 이미지 업로드 훅 수정 [Wiki >](https://github.com/HH9C4/YGHH-FE/wiki/%5BTrouble-Shooting%5D-%EB%8B%A4%EC%A4%91%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%93%B1%EB%A1%9D)
+#### 태그 State 관리 [Wiki >](https://github.com/HH9C4/YGHH-FE/wiki/%5BTrouble-Shooting%5D-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%9E%91%EC%84%B1-form-%EB%82%B4-%ED%83%9C%EA%B7%B8-%EA%B2%80%EC%83%89-%EB%93%B1%EB%A1%9D-%EC%82%AD%EC%A0%9C)
+#### SSE-다중 connect 현상 [Wiki >](https://github.com/HH9C4/YGHH-FE/wiki/%5BTrouble-Shooting%5D-Server-Sent-Event-%EB%8B%A4%EC%A4%91-%EC%BB%A4%EB%84%A5%ED%8C%85-%ED%98%84%EC%83%81)
 
 <br><br>
 
 ## :raising_hand::thought_balloon: Concern
 
-#### Access Token and Refresh Token Reissue Process [WIKI보기](https://github.com/HH9C4/BBBB-BE/wiki/%5BConcern%5D-Access-Token-and-Refresh-Token-Reissue-Process)
-
-#### Comment & Like Table Structure [WIKI보기](https://github.com/HH9C4/BBBB-BE/wiki/%5BConcern%5D-Comment-&-Like-Table-Structure)
-
-#### S3 Image Upload Control [WIKI보기](https://github.com/HH9C4/BBBB-BE/wiki/%5BConcern%5D-S3-Image-Upload-Control)
-
-#### Validation Logic [WIKI보기](https://github.com/HH9C4/BBBB-BE/wiki/%5BConcern%5D-Validation-Logic)
+#### Tailwind CSS [Wiki >](https://github.com/HH9C4/YGHH-FE/wiki/%5BConcern%5D-Tailwind-CSS-Framework)
+#### Redux -> Recoil refactoring [Wiki >](https://github.com/HH9C4/YGHH-FE/wiki/%5BConcern%5D-Redux-toolkit----Recoil-refactoring)
 
 <br><br>
 
@@ -229,15 +225,19 @@
 
 ## 📝 Technologies & Tools (BE) 📝
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JSONWebToken-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Stomp-000000?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/SSE-000000?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=for-the-badge&logo=CreateReactApp&logoColor=white"/><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Stomp-000000?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/SSE-000000?style=for-the-badge&logo=&logoColor=white"/><img src="https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=Chart.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"/>  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white"/> <img src="https://img.shields.io/badge/CODEDEPLOY-181717?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>  
-
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <br><br><br><br>
 
