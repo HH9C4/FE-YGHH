@@ -37,7 +37,7 @@ const Header = () => {
 
   useEffect(() => {
     if (!isSSE && isLogin) {
-      //SSE 연결
+
       eventSource = new EventSourcePolyfill(
         `${process.env.REACT_APP_API_URL}/connect`,
         {
@@ -50,7 +50,6 @@ const Header = () => {
           withCredentials: true,
         }
       )
-
       //sse 최초 연결되었을 때
       eventSource.onopen = (event) => {
         if (event.status === 200) {
