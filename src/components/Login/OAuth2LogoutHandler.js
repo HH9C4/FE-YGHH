@@ -4,7 +4,7 @@ import Loading from "./Loading"
 import { membersApis } from "../../api/instance"
 
 const OAuth2LogoutHandler = () => {
-  //로그아웃 Thunk
+
   const kakaoLogout = async (payload) => {
     try {
       const res = await membersApis.logoutAX(payload)
