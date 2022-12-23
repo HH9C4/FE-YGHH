@@ -6,6 +6,8 @@
 ### [ 서울시 도시 데이터 공공 API 기반 정보제공형 커뮤니티 ](https://www.boombiboombi.com/)
 [시연영상 >](https://youtu.be/uJfW2KVO2SA)
 
+![image](https://user-images.githubusercontent.com/99253403/209310557-76d3e791-480c-402d-8f4d-afa87cd9dd0a.png)
+
 <br><br>
 
 ## 👨‍👩‍👧‍👦 Our Team
