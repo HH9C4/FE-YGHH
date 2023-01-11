@@ -14,7 +14,7 @@
 
 |정성우|장윤서|유도원|오기쁨|임효진|이지혜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[@anfrosus](https://github.com/anfrosus)|[@Younddo](https://github.com/Younddo)|[@dwon5001](https://github.com/dwon5001)|[@joyfive](https://github.com/joyfive)|[@BLAKE198492](https://github.com/BLAKE198492)|aksjdffg@naver.com|
+|[@anfrosus](https://github.com/anfrosus)|[@Younddo](https://github.com/Younddo)|[@dwon5001](https://github.com/dwon5001)|[@joyfive](https://github.com/joyfive)|[@BLAKE198492](https://github.com/blake-lim)|aksjdffg@naver.com|
 |VL / BE|BE|BE|TL / FE|FE|DE|
 
 <br>
